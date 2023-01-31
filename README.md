@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhiddingithub
+- 👋 Hi, I’m @muhiddingithub Mukhiddin Jumaniyazov
 - 👀 I’m interested in learing new technogies for improve my skills
 - 🌱 I’m currently learning CI/CD, Java spring, Typescript
 
